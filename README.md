@@ -38,7 +38,7 @@ During the installation, you might be asked for a Steam Guard authentication cod
 !["Begin Download" button highlighted in the popup in the launcher after clicking the "Download" button](media/launcher-begin-download-highlighted.png)
 
 #### Step 4.
-While your game is installing, use the section on the left (under "Create an account.") to create a new account to start playing with. You'll be logged in automatically.
+While your game is installing, use the section on the left (under "Create an account.") to create a new account to start playing with. After verifying your email address by clicking the link sent to your email inbox (make sure you check your spam folder), you should be able to log in to your account.
 
 The game won't let you launch the game until you either login to an existing Mouthwash account or create a new one.
 
